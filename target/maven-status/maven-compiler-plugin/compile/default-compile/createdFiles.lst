@@ -1,4 +1,5 @@
 DBUtil.class
 RegisterServlet.class
 DeleteUserServlet.class
+SystemInfoServlet.class
 LoginServlet.class
